@@ -1,0 +1,1 @@
+Proof of concept for "virtualization" within usermode on x86-64, allowing the user to run priveledged code outside of the kernel space. Write up on https://dmaivel.github.io/usermode-virtualization.html
